@@ -1,7 +1,7 @@
 HelmRepo: https://sourcemation.github.io/charts
 HelmChart: neuvector-security
 Vendor: Linux Polska
-DisplayName: NeuVector Security Rules
+DisplayName: NeuVector - Security Rules
 ChartMetadata:
   kubeVersion: '>=1.25-0'
   icon: https://linuxpolska.com/logo/LinuxPolska-icon.png
